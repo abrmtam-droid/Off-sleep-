@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SleepOff</string>
+    <string name="accessibility_description">SleepOff uses this service only when you ask it to return to Home and lock the screen at your chosen time.</string>
+</resources>
